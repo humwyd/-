@@ -39,11 +39,11 @@ UNSW 2020 s2 COMP9900
 
 最少评论三个单词以上
 
-<img src="https://github.com/humwyd/book_recommendation/blob/master/image/image-20200817195544995.png" alt="image-20200817195544995" style="width = 50%; height=50%" />
+<img src="https://github.com/humwyd/book_recommendation/blob/master/image/image-20200817195544995.png" alt="image-20200817195544995" style="width:50%; height:50%" />
 
 创建收藏夹并添加到收藏夹
 
-<img src="https://github.com/humwyd/book_recommendation/blob/master/image/image-20200817195656349.png" alt="image-20200817195656349" style="width = 50%; height=50%" />
+<img src="https://github.com/humwyd/book_recommendation/blob/master/image/image-20200817195656349.png" alt="image-20200817195656349" style="width:50%; height:50%" />
 
 点赞排序
 
