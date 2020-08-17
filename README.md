@@ -1,5 +1,4 @@
-# COMP9900-Project
-UNSW 2020 s2 COMP9900
+
 
 ### 登录界面
 
