@@ -33,7 +33,7 @@ UNSW 2020 s2 COMP9900
 ![image-20200817195136786](https://github.com/humwyd/book_recommendation/blob/master/image/image-20200817195144602.png)
 
 
-### 3.单本书籍信息，可评分，评论，创建收藏夹，添加到收藏夹，对该书的所有评论进行点赞。按点赞数排序（排序是在前端实现）
+### 2.单本书籍信息，可评分，评论，创建收藏夹，添加到收藏夹，对该书的所有评论进行点赞。按点赞数排序（排序是在前端实现）
 
 ![image-20200817195504022](https://github.com/humwyd/book_recommendation/blob/master/image/image-20200817195504022.png)
 
@@ -41,7 +41,7 @@ UNSW 2020 s2 COMP9900
 
 <img src="https://github.com/humwyd/book_recommendation/blob/master/image/image-20200817195544995.png" alt="image-20200817195544995" style="width:50%; height:50%" />
 
-创建收藏夹并添加到收藏夹
+创建收藏夹并将书添加到收藏夹
 
 <img src="https://github.com/humwyd/book_recommendation/blob/master/image/image-20200817195656349.png" alt="image-20200817195656349" style="width:50%; height:50%" />
 
@@ -49,7 +49,7 @@ UNSW 2020 s2 COMP9900
 
 ![image-20200817195720970](https://github.com/humwyd/book_recommendation/blob/master/image/image-20200817195720970.png)
 
-### 4.My books页面 显示该用户的所有书籍，以及所有的收藏夹
+### 3.My books页面 显示该用户的所有书籍，以及所有的收藏夹
 
 ![image-20200817195829707](https://github.com/humwyd/book_recommendation/blob/master/image/image-20200817195829707.png)
 
