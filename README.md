@@ -3,7 +3,7 @@ UNSW 2020 s2 COMP9900
 
 ### 登录界面
 
-![image-20200817194442868](/Users/humwyd/Library/Application Support/typora-user-images/image-20200817194442868.png)
+![image-20200817194442868](https://raw.githubusercontent.com/humwyd/book_recommendation/master/image/image-20200817194442868.png)
 
 ### 主页面
 
