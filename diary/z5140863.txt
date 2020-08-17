@@ -1,0 +1,43 @@
+week1
+Group formed. We decided readrecommend become our project. 
+I and YangYu Gao and YaoDong Wang are responsible for front-end development. 
+We decide to use js, Vue framework to build the user interface. 
+In the the next week, we plan to complete part of the Proposal, and i plan to find learning materials about Vue.
+
+week2
+I and YangYu Gao and YaoDong Wang discussed the general functionality to be implemented on each page and completed the System Flow section. 
+After discussion, we determined the rest of the Proposal that everyone would write. 
+We will finish the Proposal next week. The front group has also started to write the login screen.
+
+week3
+We completed the proposal.
+I was mainly responsible for the background part and the part of “out of scope”. 
+And i made a small modification of system-flow at the same time. 
+As the knowledge about Vue is not comprehensive enough, I will mainly learn Vue related things and start coding next week.
+
+week4
+I finished the front-end functions of the login and registration interface. 
+And I will continue to improve the page next week.
+
+week5
+I have realized the interaction between the login and registration pages and the back-end connection. 
+Next week, I plan to complete the page of my personal homepage.
+
+week6
+This week, I wrote the layout interface of some personal information. 
+Next week, I will continue to complete the interface and try to realize the connection with the back end and get data from the back end.
+
+week7
+The front end layout of the personal center page has been completed, and the interaction with the back end has also been completed. 
+Changed the way the data is stored so that users do not have to log in again after closing the page and reopening it.
+The collection part will be completed next week.
+
+week8
+Added the ability to display user collection on the personal center page. 
+The ability to display history completion goals will be completed next week
+
+week9
+Complete the basic functions. Complete the layout and some details. 
+
+week10
+Complete all the tasks, as well as the presentation.

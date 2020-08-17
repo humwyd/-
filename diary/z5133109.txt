@@ -1,0 +1,38 @@
+week1
+Group formed. After voting, readrecommend become our project. we talk to each other about our code ability. i and yuwei zhuge response for the backed part. we decide to use python, flask framework to build web server.  In the the next week, i plan to build the basic stucture of the backed part and write some basic python file.
+
+week2
+I build the ER map. We split the proposal mission to each. And i spend sometime to compare the Django and the flask, i find that Django is more friendly for fresh people, and the guideline of django is more helpful than flask's. So, i decide to use Django as our web server develop framework.
+The next week mission, finish my proposal part and build the data model with ER map.
+
+week3
+In this week, i finish my own job, to draw a System Architecture diagram. It need to descript all part of our project and the detail of each part containers. I also write technical stack and overviews.
+In the next week, we need to implenment our project with different frameworks.
+
+week4
+This week, i finished a login api and register api and try to build another api and data structures. I also use postman to use these two apis, it works.
+In next week , i nee to complete book_add api and collection_add api.
+
+week5
+This week, i finished book api and collection api, which can add , edit and delete. I also re-design the review data model, because we need to implement user like function, it is a little bit difficult function.
+In next week, i need to complete all api and test user_base recommand system algorithm.
+
+week 6
+this week is to hard, i re-design majority of database model, and finishd almost request. 
+Some function is very difficult, maybe it look like easy and tiny. "like" function spend majority of time.
+Next week, i need to finish recommand system and optimize rating part.
+And another heavy mission is that we need to insert enough data to support our project running.
+
+week 7
+I insert some data into our database to test some api fucntion. Base on the order of fronted developer, i edit some api.
+In next week, i will finish recommand system code. For some get request, i use post to replace that, so i need to turn t back.
+Do more test!
+
+week 8 
+Update some apis and insert more data into database. Add redis as cache. Use uWSGI to replace default django web server.
+Next week, more test!
+
+week 9
+fix some error, add limition of some input data
+
+

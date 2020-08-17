@@ -1,0 +1,76 @@
+/**  Project Diary for Yangyu GAO  **/
+-- Week 1 2020/06/07 Sunday --
+This is the first week of the semester 2, we create a group and named it Orchid Malevolence, an insignificant name but sounds cool for me. 
+
+Our group have 5 members, all of us are from China, which means we do not have problem in communication. 
+
+Before the tutorial, we met together online and try to filter some projects which we really want to avoid. Then we prepared some questions to ask during the tutorial time.
+
+We all choose friday's tutorial, Xin Li made a great tutorial class and told us to make a decision on which topic to choose, and vote a scrum master. By discussing for a while, we finally choose ReadRecommend as our project subject. After that, we voted Yuwei Zhuge as our scrum master.
+
+
+After the tutorial, I create a github repository, and invite all my group members. In addition, I create a Jira project by following the document in webcms3.
+
+On Saturday, I read the requirement very carefully and transfered the document into ordering informations. Then I provided this document to my partners. Then we met online and talked about next weeks's plan. We are going to draw the system flow chart through the requirement.
+
+Finnaly, my job is to do the front end, and we finally decide to use Vue as our front end language. So I have started to learn Vue this week.
+
+-- Week2  2020/06/14  Sunday --
+In the second week, all of us join the given github team, so I transfer our origin github repo to the current repo. 
+In addition, we meet together and have a specific tasks about proposal for every one to do in the next week. 
+The proposal is supposed to write in Microsoft Word Document and then alter the format to Latex. Yuwei Zhuge, 
+Changlu Ma and me will write Background, User stories and Sprints part. Finnally, at the end of the week, 
+I am trying to make a small demo about login and sign up page, by using Vue.
+
+
+-- Week3  2020/06/21  Sunday --
+In this week, I mainly focus on the proposal. Firstly, I am response to finish all the user stories, and create a priority queue of all tasks base on the user stories. 
+In addition, I aggregate all parts from other members into overleaf, cause LaTeX gives a greate format in  this situation. 
+Moreover, all the user stories are added in Jira and the screenshots have been insert in the proplsa following the criteria. 
+Finnally, I start to write frontend code including HTML, CSS and Vue.js.
+
+
+-- Week4 2020/06/28  Sunday --
+In this week, I am going to design a prototype of the main page of the website. Firstly design the prototype by draw diagrams through processon.com.
+The first page is before login, it shows less functions but larger vision. The second page is the main page after login, it shows more functions due to the requirement.
+Moreover, I learnt how to use vue-cli and using route to design a initial version main page before login.
+
+
+-- Week5 2020/07/05  Sunday --
+In the 5th week, I created a homepage with some basic functions. I make a script to judge whether the user is login or not, and show with different status in the navigator bar. 
+On the other hand, I try to link the homepage's login & register buttons with the login page and register page. 
+After log into the website with account name and password, the login button will change to logout button, click to logout.
+In the next week, I decide to finish the homepage include the before login and after login status.
+
+-- Week6 2020/07/12  Sunday --
+In this week, I am writting the homepage after login. The layout are changed, and the footer of the homapage is changed that it will always locate in the bottom of the page.
+
+In addition, I create a goal part and a collection part in the homepage.
+
+In the next week, I decide to finish the homepage and start to write collection page to seek what does user read.
+
+-- Week7 2020/07/19  Sunday --
+This week, the homepage's functions are almost finished, including set goal, view books in a specific
+collection, and header's button. The most difficult part is the view book part, which cost me a lot of 
+time.
+
+In the next week, I will create a recommand page to show the recommand result of the user. In addition, 
+the CSS should be changed as the homepage only complete the functions but not the outlook.
+
+-- Week8 2020/07/26  Sunday --
+This week, all the homepage has been finished. I optimize the layout of the homepage, and change the mainpage's book reccomendation in the before login view.
+
+Some bugs in set goal part has been fixed. In the next week, I will complete the recommendation part.
+And finish all the layout and css.
+
+
+-- Week9 2020/08/02  Sunday --
+This week, I finish all my parts including homepage and recommend system page, all the functionalities 
+are completed. The recommend part returns two different type of results which depend on two main factors.
+
+Next week, I will continue to improve the user experience of the website, and fix the css layout.
+
+-- Week10 2020/08/07  Friday --
+This week, all of the functions are completed. Then I write the final report and prepare to do the presentation in Friday morning.
+
+I was reponsed to do the showing screen job, and presentation the homepage and register part.

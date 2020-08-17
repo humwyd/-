@@ -1,0 +1,14 @@
+
+Background
+	
+	Many people like to read to increase their professional knowledge in various fields, improve their literacy in literature, or as a hobby. Reading is essential for the development of human civilization. With the development of science and technology and the access to the Internet, paperless reading has become a trend, enabling people to read at any time and anywhere.This also reflects the importance of reading recommendation platform.
+
+	Reading recommendation platforms can bring readers around the world closer together. These platforms provide reading material and allow each reader to express his or her own opinion of the book he or she has read and enjoyed. These reviews and ratings can also serve as references for other readers. In addition, more importantly, the reading platform will recommend books that interest readers according to different modes.
+
+	By looking at existing sites like Free Book Spot, Bookboon, Manybooks, Douban and Open Library, we've summarized some of the drawbacks of the following two reading recommendation platforms.
+
+	Complex interface
+	On the interface of the existing platform, too many books are recommended and too many functions are implemented, which may make users spend more time to select books and get familiar with the functions on the page. Especially for older users who are not familiar with computers, the overly complex interface may also lead to the ineffective use of the platform.
+
+	Advertising promotion
+	There is some advertising promotion in some existing reading recommendation platforms, which will affect the user experience. So a user platform without advertising is better for the users. 

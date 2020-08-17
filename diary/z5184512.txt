@@ -1,0 +1,30 @@
+Week 1
+Group formed. I have communicated with team members and choose the ReadRecommend as our project. I also discuss with the team about the programming language that we should use. The main technical obstacles are some new programming language that we need to learn, for the front we need to learn Javascript, Ajax, and Vue. Non-technical obstacle is cannot face to face due to Conv-19, so talk on zoom. our plan for next week is to learn the programming language that we need to master and talk about the proposal. 
+
+Week2
+we need to fast learn some necessary programming language and divided the proposal into several part and responsible for diferent members. For the finished part, we have discussed recommendation booking website project. After design the system flow, I have complete the second version of system flow, we also divided the proposal for members, I will responsible for part of technical depth, scale, report formatting. I still need to learn javascript and vue. For the week, we need to finish the proposal and finish learning js and vue, because we need to coding the website next week.
+
+Week3
+We have finished the proposal. For the non-technical obstacles, we have discuss many times by online meeting, and divided the task into many small parts and everyone will charge one of it. I am responsible for the storyboard, project objectives and check the whole proposal format and content. For the next week, we need to coding our function in the front like login function and part of mian page of the website.
+
+week4
+In this week, we are prepare for the demoA, and just divided the work into serveral parts, I am going to do the rating and review page. In this period, I have some technical obstacles that I still need to learn new programming like Vue.js. For next week, we need to done all things and meething in next Thursday.
+
+week5
+we have finished the presentation of the demo1 and discussion the retrospective A. in demo1, we displaied the serveral function like login, register, the mainpage and rating and review page. I am responsible for the rating and review page. For next week, we will divided the left works into every member and track the individual's work.
+
+week6
+In this week, I will continous do my individual part that will send post or get request to the back end, and need to communicate with back-end about the JSON format of the request data.
+
+Week7
+In this week, we have finished the retrospective A and talk it in lab. And I also finish search page only based on Author/Title in this week, the non-technical obstacle is that communication from back-end is a litter difficult due to the few knowldge about back-end.
+
+Week8
+In this week, we have show the demo B to tutor. In this week I finsihed the the most part of the search page and build a new page called My books pgae, which can search any book in my collection and aslo delete the book in this collection. In next week, we will finish almost all part of this website, and we will focus on the left works
+
+week9 
+In this week, we have submitted the retrospective B, we will continous optimizing the css structure. For me I have changed some function for have a better css layout like rating and add book to collection.
+
+week10
+In this week, we have finished the report, presentation. For me, I have add more function in the review part, people can like one of reviews and the review sorting by like number.
+

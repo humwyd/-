@@ -1,0 +1,27 @@
+week1
+Group formed.
+We decided to do readrecommend for our comp9900 project. I and Yang Li will do the back end part. in addition, I will be the scrum master and tasks will be updated on Jira.
+
+Week2
+Proposal phrase. Devided into 5 parts. I was resoonsible for the sprints part, and we will be sum up on next week Friday afternoon. Consider the back end functions.
+
+Week3
+After sum up and review, we finished the proposal. I assigned some tasks on jira, front end and back end. Front end functions have been divided inot 3 parts.
+
+Week4
+We disscussed which user stories we want to show on the week5 demo. There are two main functions, the first is the login page and the second is the rating & scoring page. We still need some time to test these functions.
+
+Week5
+We finished the first demo on friday. Tutor suggested that we should remain the cookie of login function. Besides, we should do some ui design and layout design. After demo, we disscussed the retrospective A.
+
+Week6
+In this week we are aksed to do restrospective report, mainly about what we need to improve. 
+
+Week7
+In this week, Yang Li and I have discussed what model we will use in our recommendation system. The model will base on all of the users' data. By next week I will finish this part.
+
+Week8
+Discussed recommendation model. I uploaded and packed a collaborate filtering based model. Submitted the retrospective B.
+
+Week9
+In this week, preparing the final presentation. Also, writing the final report and correct some errors.
