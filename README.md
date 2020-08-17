@@ -15,11 +15,11 @@ UNSW 2020 s2 COMP9900
 
 根据书名，作者，其他用户的名字（可以看到朋友收藏了哪些书）
 
-![image-20200817194952161](/Users/humwyd/Library/Application Support/typora-user-images/image-20200817194952161.png)
+![image-20200817194952161](https://github.com/humwyd/book_recommendation/blob/master/image/image-20200817195003390.png)
 
 过滤低于平均分的书籍
 
-![image-20200817195003390](/Users/humwyd/Library/Application Support/typora-user-images/image-20200817195003390.png)
+![image-20200817195003390](https://github.com/humwyd/book_recommendation/blob/master/image/image-20200817195136786.png)
 
 
 
@@ -27,25 +27,25 @@ UNSW 2020 s2 COMP9900
 
 前端请求所有书籍，并进行分页，显示当前页的书籍，分页是在前端实现的。书籍呈现默认是按平均分高低排序（后端实现）
 
-![image-20200817195136786](/Users/humwyd/Library/Application Support/typora-user-images/image-20200817195136786.png)
+![image-20200817195136786](https://github.com/humwyd/book_recommendation/blob/master/image/image-20200817195144602.png)
 
-![image-20200817195144602](/Users/humwyd/Library/Application Support/typora-user-images/image-20200817195144602.png)
+![image-20200817195144602](https://github.com/humwyd/book_recommendation/blob/master/image/image-20200817195350129.png)
 
 ### 3.单本书籍信息，可评分，评论，创建收藏夹，添加到收藏夹，对该书的所有评论进行点赞。按点赞数排序（排序是在前端实现）
 
-![image-20200817195504022](/Users/humwyd/Library/Application Support/typora-user-images/image-20200817195504022.png)
+![image-20200817195504022](https://github.com/humwyd/book_recommendation/blob/master/image/image-20200817195504022.png)
 
 最少评论三个单词以上
 
-<img src="/Users/humwyd/Library/Application Support/typora-user-images/image-20200817195544995.png" alt="image-20200817195544995" style="zoom:50%;" />
+<img src="https://github.com/humwyd/book_recommendation/blob/master/image/image-20200817195544995.png" alt="image-20200817195544995" style="zoom:50%;" />
 
 创建收藏夹并添加到收藏夹
 
-<img src="https://github.com/humwyd/book_recommendation/blob/master/image/image-20200817195720970.png" alt="image-20200817195656349" style="zoom:50%;" />
+<img src="https://github.com/humwyd/book_recommendation/blob/master/image/image-20200817195656349.png" alt="image-20200817195656349" style="zoom:50%;" />
 
 点赞排序
 
-![image-20200817195720970](https://github.com/humwyd/book_recommendation/blob/master/image/image-20200817195758575.png)
+![image-20200817195720970](https://github.com/humwyd/book_recommendation/blob/master/image/image-20200817195720970.png)
 
 ### 4.My books页面 显示该用户的所有书籍，以及所有的收藏夹
 
