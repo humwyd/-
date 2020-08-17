@@ -32,7 +32,6 @@ UNSW 2020 s2 COMP9900
 
 ![image-20200817195136786](https://github.com/humwyd/book_recommendation/blob/master/image/image-20200817195144602.png)
 
-![image-20200817195144602](https://github.com/humwyd/book_recommendation/blob/master/image/image-20200817195350129.png)
 
 ### 3.单本书籍信息，可评分，评论，创建收藏夹，添加到收藏夹，对该书的所有评论进行点赞。按点赞数排序（排序是在前端实现）
 
