@@ -7,7 +7,7 @@ UNSW 2020 s2 COMP9900
 
 ### 主页面
 
-![image-20200817194832560](/Users/humwyd/Library/Application Support/typora-user-images/image-20200817194832560.png)
+![image-20200817194832560](https://github.com/humwyd/book_recommendation/blob/master/image/image-20200817194832560.png)
 
 我负责以下界面：搜索结果界面，单本书籍界面，Mybooks页面
 
@@ -41,23 +41,23 @@ UNSW 2020 s2 COMP9900
 
 创建收藏夹并添加到收藏夹
 
-<img src="/Users/humwyd/Library/Application Support/typora-user-images/image-20200817195656349.png" alt="image-20200817195656349" style="zoom:50%;" />
+<img src="https://github.com/humwyd/book_recommendation/blob/master/image/image-20200817195720970.png" alt="image-20200817195656349" style="zoom:50%;" />
 
 点赞排序
 
-![image-20200817195720970](/Users/humwyd/Library/Application Support/typora-user-images/image-20200817195720970.png)
+![image-20200817195720970](https://github.com/humwyd/book_recommendation/blob/master/image/image-20200817195758575.png)
 
 ### 4.My books页面 显示该用户的所有书籍，以及所有的收藏夹
 
-![image-20200817195829707](/Users/humwyd/Library/Application Support/typora-user-images/image-20200817195829707.png)
+![image-20200817195829707](https://github.com/humwyd/book_recommendation/blob/master/image/image-20200817195829707.png)
 
 可以查看改收藏夹里的书，并可以移除该书
 
-![image-20200817195924829](/Users/humwyd/Library/Application Support/typora-user-images/image-20200817195924829.png)
+![image-20200817195924829](https://github.com/humwyd/book_recommendation/blob/master/image/image-20200817195924829.png)
 
 可以在自己的collection里面搜索书籍，快速定位
 
-![image-20200817200037833](/Users/humwyd/Library/Application Support/typora-user-images/image-20200817200037833.png)
+![image-20200817200037833](https://github.com/humwyd/book_recommendation/blob/master/image/image-20200817200037833.png)
 
 以下界面是队友实现：
 
@@ -65,11 +65,11 @@ UNSW 2020 s2 COMP9900
 
 根据用户对那些书评分和评论，以及该用户添加过什么书籍，进行推荐（后端实现算法）
 
-![image-20200817200256257](/Users/humwyd/Library/Application Support/typora-user-images/image-20200817200256257.png)
+![image-20200817200256257](https://github.com/humwyd/book_recommendation/blob/master/image/image-20200817200256257.png)
 
 ### 个人信息界面
 
-![image-20200817200431364](/Users/humwyd/Library/Application Support/typora-user-images/image-20200817200431364.png)
+![image-20200817200431364](https://github.com/humwyd/book_recommendation/blob/master/image/image-20200817200431364.png)
 
-![image-20200817200446914](/Users/humwyd/Library/Application Support/typora-user-images/image-20200817200446914.png)
+![image-20200817200446914](https://github.com/humwyd/book_recommendation/blob/master/image/image-20200817200446914.png)
 =======
