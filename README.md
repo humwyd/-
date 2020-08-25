@@ -1,5 +1,5 @@
-
-
+### 该项目为学校项目，共有四人共同完成，前后端分离，前端：Vue 脚手架+html+css+js+vue.js+element UI 后端：python+djando+sqlite3 我是负责前端页面包括（搜索页面，收藏夹页面，单本书的页面）
+ 
 ### 登录界面
 
 ![image-20200817194442868](https://raw.githubusercontent.com/humwyd/book_recommendation/master/image/image-20200817194442868.png)
